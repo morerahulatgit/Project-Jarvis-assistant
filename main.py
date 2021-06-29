@@ -145,7 +145,7 @@ if __name__ == '__main__':
             talk("Git is a version control system")
 
         elif "sourcetree" in query:
-            talk("sourcetree is source control sysytem from where we can control our file transfer to remote repositery")
+            talk("sourcetree is source control sysytem ")
 
         elif "one plus bullets" in query:
             talk(" one plus bullets are blutooth earphones costs around 2000 rupees")
