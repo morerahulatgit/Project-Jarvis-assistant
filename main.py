@@ -141,4 +141,6 @@ if __name__ == '__main__':
         elif "water" in query:
             talk("Yes sir , so talking about water, whatever we can say about water is not enough, shortly just I can say water is a life")
 
+        elif "git" in query:
+            talk("Git is a version control system")
 
