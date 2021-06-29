@@ -153,6 +153,3 @@ if __name__ == '__main__':
         elif "pen" in query:
             talk("pen is an writing instrument")
 
-        elif "covid 19" in query:
-            talk("it is widely spreading virus")
-
