@@ -144,3 +144,6 @@ if __name__ == '__main__':
         elif "git" in query:
             talk("Git is a version control system")
 
+        elif "sourcetree" in query:
+            talk("sourcetree is source control sysytem from where we can control our file transfer to remote repositery")
+
