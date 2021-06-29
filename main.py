@@ -138,4 +138,7 @@ if __name__ == '__main__':
         elif "to do " in query:
             talk("sorry sir you didi not tell me what is the program")
 
+        elif "water" in query:
+            talk("Yes sir , so talking about water, whatever we can say about water is not enough, shortly just I can say water is a life")
+
 
